@@ -34,3 +34,8 @@ export default defineConfig(() => {
   };
 });
 ```
+
+::: warning
+配置说明
+cool({ eps: {enable:false} }) 是否开启 eps
+:::
